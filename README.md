@@ -23,6 +23,11 @@ curl -Lso- srvx.ws | bash
 ```bash
 wget -qO- srvx.ws | bash
 ```
+### Using `http`
+
+```bash
+http srvx.ws | bash
+```
 
 ---
 
