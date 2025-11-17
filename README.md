@@ -7,6 +7,9 @@ It analyzes **CPU, RAM, Disk I/O, RAID setup, Network performance**, and automat
 
 BenchX is designed as a clean alternative to outdated server benchmark scripts and provides a professional, colorized, easy-to-read output.
 
+<img width="612" height="950" alt="image" src="https://github.com/user-attachments/assets/82f3b410-b918-4940-ae56-ce9c38be3a3d" />
+
+
 ---
 
 ## Quick Run (Recommended)
